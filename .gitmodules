@@ -1,0 +1,9 @@
+[submodule "DIY_PCB_funkySwitchDaughterboard"]
+	path = DIY_PCB_funkySwitchDaughterboard
+	url = https://github.com/EGo4/DIY_PCB_funkySwitchDaughterboard
+[submodule "DIY_PCB_arduinoLeonardoEgoVersion"]
+	path = DIY_PCB_arduinoLeonardoEgoVersion
+	url = https://github.com/EGo4/DIY_PCB_arduinoLeonardoEgoVersion
+[submodule "DIY_PCB_simRacingWheelButton"]
+	path = DIY_PCB_simRacingWheelButton
+	url = https://github.com/EGo4/DIY_PCB_simRacingWheelButton
